@@ -22,4 +22,10 @@
 .navbar li a:hover {
     background-color: #111111;
   }
-  
+  .main {
+    flex-direction: column;
+    margin: 20px;
+    border: 5px;
+    padding: 30px;
+    
+  }
